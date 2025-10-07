@@ -1,9 +1,4 @@
-# Netflix-Movies and TV Shows  Data Analysis Using SQL
-
-
-
-
-
+# Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
@@ -275,4 +270,14 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - ASHISH PAL
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
-LinkedIn: https://www.linkedin.com/in/ashish-pal-803b072a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+
+
+
+
+
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ashish-pal-803b072a4)
+
+
+I look forward to connecting with you!
