@@ -274,4 +274,5 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ## Author - ASHISH PAL
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. I
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
+LinkedIn: https://www.linkedin.com/in/ashish-pal-803b072a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
